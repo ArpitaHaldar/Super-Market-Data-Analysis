@@ -6,5 +6,5 @@ Optical character recognition (OCR) technology is a business solution for automa
 
 
 <p align="center">
-  <img width="460" height="300" src="recognAlse.jpeg">
+  <img width="460" height="300" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/github.png">
 </p>
