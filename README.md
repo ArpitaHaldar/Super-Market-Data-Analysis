@@ -41,7 +41,7 @@ Based on the report:
 
 3. The classification of different order statuses in my dataset is mainly based on:
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/DIFFERENT%20ORDER%20STATUS.png">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/DIFFERENT%20ORDER%20STATUS.png">
 </p>
 
 4. The 10 states that are in the top ten:
