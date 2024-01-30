@@ -70,7 +70,8 @@ Conclusion:
 Targeting women customers in the age group of 30-49 years is the final decision for improving store sales display advertisements/offers/coupons on Amazon, Flipkart, and Myntra to target women from Maharashtra, Karnataka, and Uttar Pradesh. In order to finish a supermarket data analysis project, it is usual to summarize your findings and insights, draw conclusions, and provide recommendations or or suggestions for stakeholders. 
 
 
-## Authors
+## Created By
 
-- 
+- [@ArpitaHaldar](https://github.com/ArpitaHaldar)
+- Arpita Haldar - Data Analyst
 
