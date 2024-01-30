@@ -34,15 +34,36 @@ Based on the report:
   <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/SALES%20AND%20ORDERS.png">
 </p>
 
-2. Women have a higher chance of buying (69%) than men
-3. The classification of different order statuses in my dataset is mainly based on:
-4. The 10 states that are in the top ten:
-5. The number of orders can be used to determine the relationship between age and gender:
-6. The channels that contributed the most were Amazon, Flipkart, and Myntra.
-7. Most orders were placed in the 'Set' clothing category.
-
-
-
+2. Women have a higher chance of buying (69%) than men.
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/dashboard.png">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/men%20and%20women%20purchased%20ratio%20.png">
 </p>
+
+3. The classification of different order statuses in my dataset is mainly based on:
+<p align="center">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/DIFFERENT%20ORDER%20STATUS.png">
+</p>
+
+4. The 10 states that are in the top ten:
+<p align="center">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Top%2010%20States%20Contribution%20To%20The%20Sales.png">
+</p>
+
+
+5. The number of orders can be used to determine the relationship between age and gender:
+<p align="center">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Age%20vs%20gender.png">
+</p>
+
+6. The channels that contributed the most were Amazon, Flipkart, and Myntra.
+<p align="center">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Channel%20Sales.png">
+</p>
+
+7. Most orders were placed in the 'Set' clothing category.
+<p align="center">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Selling%20Category.png">
+</p>
+
+
+
