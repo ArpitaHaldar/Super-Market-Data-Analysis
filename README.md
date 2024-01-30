@@ -36,7 +36,7 @@ Based on the report:
 
 2. Women have a higher chance of buying (69%) than men.
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/men%20and%20women%20purchased%20ratio%20.png">
+  <img width="400" height="400" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/men%20and%20women%20purchased%20ratio%20.png">
 </p>
 
 3. The classification of different order statuses in my dataset is mainly based on:
