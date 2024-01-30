@@ -31,7 +31,7 @@ Based on the report:
 
 1. My report revealed that March has the highest sales and order numbers, while November has the lowest.
 <p align="center">
-  <img width="400" height="200" src="Graphs/Sales vs month.png">
+  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/SALES%20AND%20ORDERS.png">
 </p>
 
 2. Women have a higher chance of buying (69%) than men
