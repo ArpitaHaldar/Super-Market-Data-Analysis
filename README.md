@@ -52,17 +52,17 @@ Based on the report:
 
 5. The number of orders can be used to determine the relationship between age and gender:
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Age%20vs%20gender.png">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Age%20vs%20gender.png">
 </p>
 
 6. The channels that contributed the most were Amazon, Flipkart, and Myntra.
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Channel%20Sales.png">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Channel%20Sales.png">
 </p>
 
 7. Most orders were placed in the 'Set' clothing category.
 <p align="center">
-  <img width="400" height="200" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Selling%20Category.png">
+  <img width="400" height="300" src="https://github.com/ArpitaHaldar/Super-Market-Data-Analysis/blob/main/GRAPHS/Selling%20Category.png">
 </p>
 
 
